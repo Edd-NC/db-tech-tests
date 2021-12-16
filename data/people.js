@@ -229,7 +229,7 @@ module.exports = [
             'Passionfruit',
             'Coconut'
           ],
-        favourite_film: ["When Harry Met Sally"]
+        favourite_film: "When Harry Met Sally"
     },
     {
         first_name: "Harry",
@@ -593,13 +593,3 @@ module.exports = [
         favourite_film: "Detective Pikachu"
     }
 ]
-
-// {
-//     first_name: ,
-//     last_name: ,
-//     dob: new Date(),
-//     likes:
-//     dislikes: 
-//     eats: 
-//     favourite_film:
-// },
