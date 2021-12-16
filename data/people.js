@@ -248,7 +248,7 @@ module.exports = [
             'Sausage Roll',
             'Chocolate Ice Cream'
           ],
-        favourite_film: "Harry Potter and the Philosophers Stone"
+        favourite_film: "Harry Potter and the Philosopher's Stone"
     },
     {
         first_name: "Ronald",
