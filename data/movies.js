@@ -25,7 +25,7 @@ module.exports = [{
     "genre": "Horror",
     "year": 1992,
     "director": "David Fincher",
-    "cast": ["Sigourney Weaver", "Charles Dillon", "Charles Dance", "Brian Glover", "Ralph Brown", "Danny Webb", "Lance Henriksen"],
+    "cast": ["Sigourney Weaver", "Charles Dutton", "Charles Dance", "Brian Glover", "Ralph Brown", "Danny Webb", "Lance Henriksen"],
     "ratings": {
         "iMDB": 6.5,
         "rottenTomatoes": [45, 47]
@@ -58,7 +58,7 @@ module.exports = [{
     "genre": "Anime",
     "year": 1988,
     "director": "Katsuhiro Otomo",
-    "cast": ["Mitsuo Iwata", "Nozomu Sasaki", "Mami Koyama", "Taro Ishida", "Mizuho Suzuki", "Tetsusho Genada"],
+    "cast": ["Mitsuo Iwata", "Nozomu Sasaki", "Mami Koyama", "Taro Ishida", "Mizuho Suzuki", "Tessho Genda"],
     "ratings": {
         "iMDB": 8.0,
         "rottenTomatoes": [90, 90]
@@ -146,7 +146,7 @@ module.exports = [{
     "genre": "Drama",
     "year": 2020,
     "director": "Chole Zhao",
-    "cast": ["Frances McDormand", "David Strathairn", "Linda May", "Swankie"],
+    "cast": ["Frances McDormand", "David Strathairn", "Linda May", "Charlene Swankie"],
     "ratings": {
         "iMDB": 7.4,
         "rottenTomatoes": [93, 82]
@@ -322,7 +322,7 @@ module.exports = [{
     "genre": "Science Fiction",
     "year": 1983,
     "director": "Richard Marquand",
-    "cast": ["Mark Hamill", "Harrison Ford", "Carriew Fisher", "Billy Dee Williams", "Anthony Daniels", "David Prowse", "Kenny Baker", "Peter Mayhew", "Frank Oz"],
+    "cast": ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Billy Dee Williams", "Anthony Daniels", "David Prowse", "Kenny Baker", "Peter Mayhew", "Frank Oz"],
     "ratings": {
         "iMDB": 8.3,
         "rottenTomatoes": [82, 94]
