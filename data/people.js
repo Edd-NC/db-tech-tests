@@ -591,5 +591,16 @@ module.exports = [
             'Gobstoppers',
           ],
         favourite_film: "Detective Pikachu"
+    },
+    {
+        first_name: "Cam",
+        last_name: "Eroon",
+        dob: new Date(2001, 5, 19),
+        likes: ["Drama", "Action"],
+        dislikes: ["Comedy", "Romantic Comedy"],
+        eats: [
+            "Broccoli"
+        ],
+        favourite_film: "The Matrix"
     }
 ]
