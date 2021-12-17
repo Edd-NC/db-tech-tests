@@ -165,7 +165,7 @@ module.exports = [{
 },
 {
     "title": "Pulp Fiction",
-    "genre": "Comedy",
+    "genre": "Drama",
     "year": 1994,
     "director": "Quentin Tarantino",
     "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Harvey Keitel", "Tim Roth", "Amanda Plummer", "Maria de Medeiros", "Ving Rhames", "Eric Stoltz", "Rosanna Arquette", "Christopher Walken", "Bruce Willis"],
@@ -394,17 +394,213 @@ module.exports = [{
         "rottenTomatoes": [71, 80]
     }
 },
-
+{
+    "title": "The Notebook",
+    "genre": "Romance",
+    "year": 2004,
+    "director": "Nick Cassavetes",
+    "cast": ["Gena Rowlands", "James Garner", "Rachel McAdams", "Ryan Gosling"],
+    "ratings": {
+        "iMDB": 7.8,
+        "rottenTomatoes": [53, 85]
+    }
+},
+{
+    "title": "The Fault in Our Stars",
+    "genre": "Romance",
+    "year": 2014,
+    "director": "Josh Boone",
+    "cast": ["Shailene Woodley", "Ansel Elgort", "Nat Wolff", "Laura Dern"],
+    "ratings": {
+        "iMDB": 7.7,
+        "rottenTomatoes": [81, 85]
+    }
+},
+{
+    "title": "No String Attached",
+    "genre": "Romantic Comedy",
+    "year": 2011,
+    "director": "Ivan Reitman",
+    "cast": ["Natalie Portman", "Ashton Kutcher", "Kevin Kline", "Cary Elwes"],
+    "ratings": {
+        "iMDB": 6.2,
+        "rottenTomatoes": [49, 51]
+    }
+},
+{
+    "title": "Hitch",
+    "genre": "Romantic Comedy",
+    "year": 2005,
+    "director": "Andy Tennant",
+    "cast": ["Will Smith", "Eva Mendes", "Kevin James", "Amber Valletta"],
+    "ratings": {
+        "iMDB": 6.6,
+        "rottenTomatoes": [69, 62]
+    }
+},
+{
+    "title": "I Am Legend",
+    "genre": "Horror",
+    "year": 2007,
+    "director": "Francis Lawrence",
+    "cast": ["Will Smith", "Alice Braga", "Charlie Tahan", "Dash Mihok"],
+    "ratings": {
+        "iMDB": 7.2,
+        "rottenTomatoes": [68, 68]
+    }
+},
+{
+    "title": "Slumdog Millionaire",
+    "genre": "Romance",
+    "year": 2008,
+    "director": "Danny Boyle",
+    "cast": ["Dev Patel", "Freida Pinto", "Saurabh Shukla", "Anil Kapoor"],
+    "ratings": {
+        "iMDB": 8,
+        "rottenTomatoes": [91, 90]
+    }
+},
+{
+    "title": "Dear John",
+    "genre": "Romance",
+    "year": 2010,
+    "director": "Lasse Hallstrom",
+    "cast": ["Channing Tatum", "Amanda Seyfried", "Richard Jenkins", "Henry Thomas"],
+    "ratings": {
+        "iMDB": 6.3,
+        "rottenTomatoes": [28, 55]
+    }
+},
+{
+    "title": "Paul Blart: Mall Cop",
+    "genre": "Comedy",
+    "year": 2009,
+    "director": "Steve Carr",
+    "cast": ["Kevin James", "Keir O'Donnell", "Jayma Mays"],
+    "ratings": {
+        "iMDB": 5.2,
+        "rottenTomatoes": [34, 43]
+    }
+},
+{
+    "title": "Pan's Labrinth",
+    "genre": "Fantasy",
+    "year": 2006,
+    "director": "Guillermo Del Toro",
+    "cast": ["Ivana Baquero", "Ariadna Gil", "Sergi Lopez", "Maribel Verdu"],
+    "ratings": {
+        "iMDB": 8.2,
+        "rottenTomatoes": [95, 91]
+    }
+},
+{
+    "title": "Tropic Thunder",
+    "genre": "Comedy",
+    "year": 2008,
+    "director": "Ben Stiller",
+    "cast": ["Ben Stiller", "Jack Black", "Robert Downey Jr.", "Tom Cruise"],
+    "ratings": {
+        "iMDB": 7.0,
+        "rottenTomatoes": [82, 70]
+    }
+},
+{
+    "title": "The Lord of the Rings: Fellowship of the Ring",
+    "genre": "Fantasy",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "cast": ["Elijah Wood", "Ian McKellan", "Liv Tyler", "Viggo Mortensen", "Sean Astin", "Cate Blanchett", "John Rhys-Davies", "Christopher Lee", "Billy Boyd", "Dominic Monaghan", "Orlando Bloom", "Hugo Weaving", "Andy Serkis", "Ian Holm", "Sean Bean"],
+    "ratings": {
+        "iMDB": 8.8,
+        "rottenTomatoes": [92, 95]
+    }
+},
+{
+    "title": "The Lord of the Rings: The Two Towers",
+    "genre": "Fantasy",
+    "year": 2002,
+    "director": "Peter Jackson",
+    "cast": ["Elijah Wood", "Ian McKellan", "Liv Tyler", "Viggo Mortensen", "Sean Astin", "Cate Blanchett", "John Rhys-Davies", "Christopher Lee", "Billy Boyd", "Dominic Monaghan", "Orlando Bloom", "Hugo Weaving", "Andy Serkis", "Bernard Hill", "Miranda Otto", "David Wenham", "Brad Dourif", "Karl Urban"],
+    "ratings": {
+        "iMDB": 8.7,
+        "rottenTomatoes": [95, 95]
+    }
+},
+{
+    "title": "The Lord of the Rings: Return of the King",
+    "genre": "Fantasy",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "cast": ["Elijah Wood", "Ian McKellan", "Liv Tyler", "Viggo Mortensen", "Sean Astin", "Cate Blanchett", "John Rhys-Davies", "Christopher Lee", "Billy Boyd", "Dominic Monaghan", "Orlando Bloom", "Hugo Weaving", "Andy Serkis", "Bernard Hill", "Miranda Otto", "David Wenham", "Brad Dourif", "Karl Urban", "John Noble", "Iam Holm", "Sean Bean"],
+    "ratings": {
+        "iMDB": 8.9,
+        "rottenTomatoes": [93, 86]
+    }
+},
+{
+    "title": "The Matrix",
+    "genre": "Action",
+    "year": 1999,
+    "director": "The Wachowskis",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie Anne Moss", "Hugo Weaving", "Joe Pantoliano"],
+    "ratings": {
+        "iMDB": 8.7,
+        "rottenTomatoes": [88, 85]
+    }
+},
+{
+    "title": "The Matrix: Reloaded",
+    "genre": "Action",
+    "year": 2003,
+    "director": "The Wachowskis",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie Anne Moss", "Hugo Weaving", "Jade Pinkett Smith", "Gloria Foster"],
+    "ratings": {
+        "iMDB": 7.2,
+        "rottenTomatoes": [73, 72]
+    }
+},
+{
+    "title": "The Matrix: Revolutions",
+    "genre": "Action",
+    "year": 2003,
+    "director": "The Wachowskis",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie Anne Moss", "Hugo Weaving", "Jade Pinkett Smith"],
+    "ratings": {
+        "iMDB": 6.8,
+        "rottenTomatoes": [35, 60]
+    }
+},
+{
+    "title": "The Godfather",
+    "genre": "Drama",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan", "Diane Keaton"],
+    "ratings": {
+        "iMDB": 9.2,
+        "rottenTomatoes": [97, 98]
+    }
+},
+{
+    "title": "The Godfather: Part 2",
+    "genre": "Drama",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "cast": ["Al Pacino", "Robert De Niro", "Robert Duvall", "Diane Keaton"],
+    "ratings": {
+        "iMDB": 9.0,
+        "rottenTomatoes": [96, 97]
+    }
+},
+{
+    "title": "Schindler's List",
+    "genre": "Drama",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley", "Caroline Goodall"],
+    "ratings": {
+        "iMDB": 8.9,
+        "rottenTomatoes": [98, 97]
+    }
+}
 ]
-
-// {
-//     "title":
-//     "genre": 
-//     "year": 
-//     "director": 
-//     "cast": 
-//     "ratings": {
-//         "iMDB":
-//         "rottenTomatoes": []
-//     }
-// },
