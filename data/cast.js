@@ -807,7 +807,7 @@ module.exports = [
     {
         first_name: "Jack",
         last_name: "MacGowran",
-        dob: new Date(1018, 9, 13),
+        dob: new Date(1918, 9, 13),
         number_of_awards: 0,
         number_of_nominations: 0
     },
@@ -1392,11 +1392,312 @@ module.exports = [
         number_of_awards: 3,
         number_of_nominations: 9
     },
+    {
+        first_name: "Keir",
+        last_name: "O'Donnell",
+        dob: new Date(1978, 10, 8),
+        number_of_awards: 1,
+        number_of_nominations: 3
+    },
+    {
+        first_name: "Jayma",
+        last_name: "Mays",
+        dob: new Date(1979, 6, 16),
+        number_of_awards: 1,
+        number_of_nominations: 7
+    },
+    {
+        first_name: "Ivana",
+        last_name: "Baquero",
+        dob: new Date(1994, 5, 11),
+        number_of_awards: 10,
+        number_of_nominations: 10
+    },
+    {
+        first_name: "Ariadna",
+        last_name: "Gil",
+        dob: new Date(1969, 0, 23),
+        number_of_awards: 17,
+        number_of_nominations: 12
+    },
+    {
+        first_name: "Sergi",
+        last_name: "Lopez",
+        dob: new Date(1965, 11, 22),
+        number_of_awards: 19,
+        number_of_nominations: 32
+    },
+    {
+        first_name: "Maribel",
+        last_name: "Verdu",
+        dob: new Date(1970, 9, 2),
+        number_of_awards: 27,
+        number_of_nominations: 41
+    },
+    {
+        first_name: "Ben",
+        last_name: "Stiller",
+        dob: new Date(1965, 10, 30),
+        number_of_awards: 15,
+        number_of_nominations: 60
+    },
+    {
+        first_name: "Jack",
+        last_name: "Black",
+        dob: new Date(1969, 7, 28),
+        number_of_awards: 13,
+        number_of_nominations: 49
+    },
+    {
+        first_name: "Robert",
+        last_name: "Downey Jr.",
+        dob: new Date(1965, 3, 4),
+        number_of_awards: 43,
+        number_of_nominations: 122
+    },
+    {
+        first_name: "Tom",
+        last_name: "Cruise",
+        dob: new Date(1962, 6, 3),
+        number_of_awards: 54,
+        number_of_nominations: 85
+    },
+    {
+        first_name: "Elijah",
+        last_name: "Wood",
+        dob: new Date(1981, 0, 28),
+        number_of_awards: 29,
+        number_of_nominations: 48
+    },
+    {
+        first_name: "Ian",
+        last_name: "McKellan",
+        dob: new Date(1939, 4, 25),
+        number_of_awards: 53,
+        number_of_nominations: 64
+    },
+    {
+        first_name: "Liv",
+        last_name: "Tyler",
+        dob: new Date(1977, 6, 1),
+        number_of_awards: 13,
+        number_of_nominations: 20
+    },
+    {
+        first_name: "'Viggo",
+        last_name: "Mortensen",
+        dob: new Date(1958, 9, 20),
+        number_of_awards: 43,
+        number_of_nominations: 126
+    },
+    {
+        first_name: "Sean",
+        last_name: "Astin",
+        dob: new Date(1971, 1, 25),
+        number_of_awards: 24,
+        number_of_nominations: 28
+    },
+    {
+        first_name: "Christopher",
+        last_name: "Lee",
+        dob: new Date(1922, 4, 27),
+        number_of_awards: 31,
+        number_of_nominations: 12
+    },
+    {
+        first_name: "Billy",
+        last_name: "Boyd",
+        dob: new Date(1968, 7, 28),
+        number_of_awards: 9,
+        number_of_nominations: 10
+    },
+    {
+        first_name: "Dominic",
+        last_name: "Monaghan",
+        dob: new Date(1976, 11, 8),
+        number_of_awards: 10,
+        number_of_nominations: 17
+    },
+    {
+        first_name: "Orlando",
+        last_name: "Bloom",
+        dob: new Date(1977, 0, 13),
+        number_of_awards: 28,
+        number_of_nominations: 29
+    },
+    {
+        first_name: "Hugo",
+        last_name: "Weaving",
+        dob: new Date(1960, 3, 4),
+        number_of_awards: 31,
+        number_of_nominations: 34
+    },
+    {
+        first_name: "Andy",
+        last_name: "Serkis",
+        dob: new Date(1964, 3, 20),
+        number_of_awards: 43,
+        number_of_nominations: 57
+    },
+    {
+        first_name: "Sean",
+        last_name: "Bean",
+        dob: new Date(1959, 3, 17),
+        number_of_awards: 18,
+        number_of_nominations: 14
+    },
+    {
+        first_name: "Bernard",
+        last_name: "Hill",
+        dob: new Date(1944, 11, 17),
+        number_of_awards: 8,
+        number_of_nominations: 9
+    },
+    {
+        first_name: "Miranda",
+        last_name: "Otto",
+        dob: new Date(1967, 11, 16),
+        number_of_awards: 13,
+        number_of_nominations: 21
+    },
+    {
+        first_name: "David",
+        last_name: "Wenham",
+        dob: new Date(1965, 8, 21),
+        number_of_awards: 15,
+        number_of_nominations: 33
+    },
+    {
+        first_name: "Brad",
+        last_name: "Dourif",
+        dob: new Date(1950, 2, 18),
+        number_of_awards: 9,
+        number_of_nominations: 13
+    },
+    {
+        first_name: "Karl",
+        last_name: "Urban",
+        dob: new Date(1972, 5, 7),
+        number_of_awards: 8,
+        number_of_nominations: 12
+    },
+    {
+        first_name: "John",
+        last_name: "Noble",
+        dob: new Date(1948, 7, 20),
+        number_of_awards: 9,
+        number_of_nominations: 15
+    },
+    {
+        first_name: "Ian",
+        last_name: "Holm",
+        dob: new Date(1931, 8, 12),
+        number_of_awards: 21,
+        number_of_nominations: 24
+    },
+    {
+        first_name: "Keanu",
+        last_name: "Reeves",
+        dob: new Date(1964, 8, 2),
+        number_of_awards: 13,
+        number_of_nominations: 34
+    },
+    {
+        first_name: "Laurence",
+        last_name: "Fishburne",
+        dob: new Date(1961, 6, 30),
+        number_of_awards: 27,
+        number_of_nominations: 73
+    },
+    {
+        first_name: "Carrie Anne",
+        last_name: "Moss",
+        dob: new Date(1967, 7, 21),
+        number_of_awards: 5,
+        number_of_nominations: 9
+    },
+    {
+        first_name: "Joe",
+        last_name: "Pantoliano",
+        dob: new Date(1951, 8, 12),
+        number_of_awards: 7,
+        number_of_nominations: 10
+    },
+    {
+        first_name: "Jade",
+        last_name: "Pinkett Smith",
+        dob: new Date(1971, 8, 18),
+        number_of_awards: 8,
+        number_of_nominations: 28
+    },
+    {
+        first_name: "Gloria",
+        last_name: "Foster",
+        dob: new Date(1933, 10, 15),
+        number_of_awards: 0,
+        number_of_nominations: 2
+    },
+    {
+        first_name: "Marlon",
+        last_name: "Brando",
+        dob: new Date(1924, 3, 3),
+        number_of_awards: 34,
+        number_of_nominations: 36
+    },
+    {
+        first_name: "Al",
+        last_name: "Pacino",
+        dob: new Date(1940, 3, 25),
+        number_of_awards: 52,
+        number_of_nominations: 123
+    },
+    {
+        first_name: "James",
+        last_name: "Caan",
+        dob: new Date(1940, 2, 26),
+        number_of_awards: 8,
+        number_of_nominations: 21
+    },
+    {
+        first_name: "Diane",
+        last_name: "Keaton",
+        dob: new Date(1946, 0, 5),
+        number_of_awards: 35,
+        number_of_nominations: 58
+    },
+    {
+        first_name: "Robert",
+        last_name: "De Niro",
+        dob: new Date(1943, 7, 17),
+        number_of_awards: 67,
+        number_of_nominations: 133
+    },
+    {
+        first_name: "Robert",
+        last_name: "Duvall",
+        dob: new Date(1931, 0, 5),
+        number_of_awards: 59,
+        number_of_nominations: 65
+    },
+    {
+        first_name: "Liam",
+        last_name: "Neeson",
+        dob: new Date(1952, 5, 7),
+        number_of_awards: 23,
+        number_of_nominations: 50
+    },
+    {
+        first_name: "Ben",
+        last_name: "Kingsley",
+        dob: new Date(1943, 11, 31),
+        number_of_awards: 48,
+        number_of_nominations: 71
+    },
+    {
+        first_name: "Caroline",
+        last_name: "Goodall",
+        dob: new Date(1959, 10, 13),
+        number_of_awards: 1,
+        number_of_nominations: 3
+    }
 ]
-// {
-//     first_name:
-//     last_name:
-//     dob: new Date(),
-//     number_of_awards:
-//     number_of_nominations:
-// },
