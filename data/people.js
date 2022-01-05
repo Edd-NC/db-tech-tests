@@ -194,7 +194,7 @@ module.exports = [
     {
         first_name: "Sam",
         last_name: "P",
-        dob: new Date(1986, 04, 12),
+        dob: new Date(1986, 4, 12),
         likes: ["Fantasy", "Science Fiction"],
         dislikes: ["Romantic Comedy", "Action"],
         eats: [
