@@ -19,5 +19,10 @@
   "homepage": "https://github.com/Edd-NC/db-tech-tests#readme",
   "devDependencies": {
     "jest": "^27.4.4"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg": "^8.7.1",
+    "supertest": "^6.1.6"
   }
 }
