@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "createDB": "psql -f ./challenges/challenge_1/createDB.sql"
   },
   "repository": {
     "type": "git",
