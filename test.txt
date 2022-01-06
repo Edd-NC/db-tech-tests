@@ -1,5 +1,0 @@
-Create a db with 4 tables
-Run Seed to fill the data with data
-Get a single item from 2 different tables
-Use a Join to get extended info about one person
-Create a many-to-many relationship
