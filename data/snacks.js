@@ -1,277 +1,277 @@
 module.exports = [
     {
         food: "Salt & Vinegar Crisps",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: false,
         rating_out_of_5: 4.5 
     },
     {
         food: "Haribo Starmix",
-        type: "Sweets",
+        category: "Sweets",
         movie_friendly: true,
         rating_out_of_5: 3.5,
     },
     {
         food: "Haribo Tangfastics",
-        type: "Sweets",
+        category: "Sweets",
         movie_friendly: true,
         rating_out_of_5: 5
     },
     {
         food: "Haribo Supermix",
-        type: "Sweets",
+        category: "Sweets",
         movie_friendly: true,
         rating_out_of_5: 1
     },
     {
         food: "Strawberry Ice Cream",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 4
     },
     {
         food: "Chocolate Ice Cream",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true, 
         rating_out_of_5: 4.5
     },
     {
         food: "Salted Caramel Ice Cream",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 4
     },
     {
         food: "Prawn Cocktail Crisps",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: "false",
         rating_out_of_5: 4.5,
     },
     {
         food: "Lasagne",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false,
         rating_out_of_5: 5
     },
     {
         food: "Ratatouille",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false, 
         rating_out_of_5: 3.5
     },
     {
         food: "Cheese & Onion Crisps",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: false,
         rating_out_of_5: 3
     },
     {
         food: "Chocolate Cake",
-        type: "Dessert",
+        category: "Dessert",
         movie_friendly: true,
         rating_out_of_5: 5
     },
     {
         food: "Panna Cotta",
-        type: "Dessert",
+        category: "Dessert",
         movie_friendly: false,
         rating_out_of_5: 5
     },
     {
         food: "Fruit Salad",
-        type: "Dessert",
+        category: "Dessert",
         movie_friendly: false,
         rating_out_of_5: 0.5
     },
     {
         food: "Tiramisu",
-        type: "Dessert",
+        category: "Dessert",
         movie_friendly: "false",
         rating_out_of_5: 4
     },
     {
         food: "Gobstoppers",
-        type: "Sweets",
+        category: "Sweets",
         movie_friendly: true,
         rating_out_of_5: 2,
     },
     {
         food: "Broccoli",
-        type: "Vegetable",
+        category: "Vegetable",
         movie_friendly: false,
         rating_out_of_5: 5
     },
     {
         food: "Roast Dinner",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false,
         rating_out_of_5: 5
     },
     {
         food: "Pizza",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true, 
         rating_out_of_5: 5
     },
     {
         food: "Carrot",
-        type: "Vegetable",
+        category: "Vegetable",
         movie_friendly: false,
         rating_out_of_5: 4
     },
     {
         food: "Chocolate",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 4.5
     },
     {
         food: "Salad",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false,
         rating_out_of_5: 2
     },
     {
         food: "Ham Sandwich",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: true,
         rating_out_of_5: 1.5,
     },
     {
         food: "Cheese Sandwich",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: true, 
         rating_out_of_5: 1
     },
     {
         food: "Pickled Onions",
-        type: "Vegetable",
+        category: "Vegetable",
         movie_friendly: false,
         rating_out_of_5: 2
     },
     {
         food: "Sausage Roll",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 3.5
     },
     {
         food: "Scotch Egg",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 2.5
     },
     {
         food: "Brussel Sprouts",
-        type: "Vegetable",
+        category: "Vegetable",
         movie_friendly: false,
         rating_out_of_5: 0.5
     },
     {
         food: "Apple",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: false,
         rating_out_of_5: 4
     },
     {
         food: "Orange",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: true,
         rating_out_of_5: 4.5
     },
     {
         food: "Grapes",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: true,
         rating_out_of_5: 5
     },
     {
         food: "Coconut",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: false,
         rating_out_of_5: 2
     },
     {
         food: "Mango",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: false,
         rating_out_of_5: 5
     },
     {
         food: "Passionfruit",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: false,
         rating_out_of_5: 3.5
     },
     {
         food: "Calzone",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false, 
         rating_out_of_5: 4.5
     },
     {
         food: "Skittles",
-        type: "Sweets",
+        category: "Sweets",
         movie_friendly: true, 
         rating_out_of_5: 3.5
     },
     {
         food: "Mars Bar",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 4
     },
     {
         food: "Pot Noodle",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false, 
         rating_out_of_5: 1.5
     },
     {
         food: "Crackers",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: false,
         rating_out_of_5: 1
     },
     {
         food: "Celery",
-        type: "Vegetable",
+        category: "Vegetable",
         movie_friendly: false,
         rating_out_of_5: 0.5
     },
     {
         food: "Fish & Chips",
-        type: "Meal",
+        category: "Meal",
         movie_friendly: false,
         rating_out_of_5: 4
     },
     {
         food: "Jelly Beans",
-        type: "Sweets",
+        category: "Sweets",
         movie_friendly: true,
         rating_out_of_5: 3
     },
     {
         food: "Pork Pie",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 0.5
     },
     {
         food: "Banana",
-        type: "Fruit",
+        category: "Fruit",
         movie_friendly: true,
         rating_out_of_5: 1
     },
     {
         food: "Deep Fried Mars Bar",
-        type: "Junk",
+        category: "Junk",
         movie_friendly: true,
         rating_out_of_5: 1.5
     },
     {
         food: "Leek",
-        type: "Vegetable",
+        category: "Vegetable",
         movie_friendly: true,
         rating_out_of_5: 0.5
     }
